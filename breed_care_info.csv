@@ -1,0 +1,160 @@
+breed,food_type,protein_requirement,common_diseases,vaccination_schedule,feeding_frequency,special_notes
+Labrador Retriever,High-quality kibble + lean meat,22-26%,Hip Dysplasia;Obesity;Ear Infections,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs daily exercise
+German Shepherd,High-protein working dog diet,24-28%,Hip Dysplasia;Bloat;Degenerative Myelopathy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Joint supplements recommended
+Golden Retriever,Balanced kibble + Omega-3,22-26%,Cancer;Hip Dysplasia;Skin Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor weight carefully
+Bulldog,Low-fat kibble,20-24%,Breathing Issues;Skin Infection;Joint Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Avoid overheating
+Poodle,High-quality small breed diet,22-28%,Ear Infections;Hip Dysplasia;Addison’s Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming needed
+Beagle,Balanced dry kibble,22-26%,Obesity;Epilepsy;Hypothyroidism,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Highly food motivated
+Rottweiler,Large breed high-protein diet,24-28%,Hip Dysplasia;Heart Issues;Cancer,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Slow growth diet as puppy
+Dachshund,Small breed diet,22-25%,Intervertebral Disc Disease;Obesity,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Avoid jumping
+Siberian Husky,High-energy working dog food,24-28%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs high activity
+Boxer,High-quality protein diet,22-26%,Cancer;Heart Disease;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor heart health
+Shih Tzu,Small breed premium kibble,20-24%,Eye Problems;Dental Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Daily eye cleaning
+Doberman Pinscher,High-protein diet,24-28%,Cardiomyopathy;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Heart check annually
+Chihuahua,Small breed high-calorie food,20-24%,Dental Issues;Luxating Patella,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",3 small meals/day,Avoid overfeeding
+Great Dane,Large breed puppy formula,22-26%,Bloat;Hip Dysplasia;Heart Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Slow feeding required
+Pomeranian,Small breed kibble,20-24%,Dental Disease;Tracheal Collapse,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Brush teeth regularly
+Cocker Spaniel,Premium balanced diet,22-26%,Ear Infections;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular ear cleaning
+Border Collie,High-energy protein diet,24-28%,Epilepsy;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs mental stimulation
+Australian Shepherd,Working dog formula,24-28%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Highly active
+Yorkshire Terrier,Toy breed diet,20-24%,Dental Issues;Hypoglycemia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",3 small meals/day,Small portions only
+Maltese,Small breed premium food,20-24%,Dental Disease;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Daily grooming needed
+Boston Terrier,Low-fat kibble,20-24%,Breathing Issues;Eye Injuries,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Avoid extreme heat
+French Bulldog,Low-fat small breed food,20-24%,Breathing Issues;Skin Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor breathing
+Pug,Low-calorie small breed diet,20-24%,Obesity;Breathing Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strict weight control
+Shetland Sheepdog,High-quality balanced diet,22-26%,Collie Eye Anomaly;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Brush coat weekly
+Basset Hound,Balanced kibble,22-26%,Ear Infections;Obesity,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor weight
+Newfoundland,Large breed diet,22-26%,Heart Disease;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Joint care needed
+Akita,High-protein large breed diet,24-28%,Hip Dysplasia;Autoimmune Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strong-willed breed
+Chow Chow,Balanced premium kibble,22-26%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming
+Dalmatian,Low-purine diet,22-26%,Urinary Stones;Deafness,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Adequate hydration essential
+Bernese Mountain Dog,Large breed formula,22-26%,Cancer;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Short lifespan breed
+English Springer Spaniel,Balanced protein diet,22-26%,Hip Dysplasia;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Active breed
+Cane Corso,Large breed high-protein food,24-28%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs training
+Saint Bernard,Large breed slow growth formula,22-26%,Bloat;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Avoid rapid growth
+Shiba Inu,Balanced premium diet,22-26%,Allergies;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Independent breed
+Miniature Schnauzer,Small breed diet,20-24%,Pancreatitis;Diabetes,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Low-fat diet
+Weimaraner,High-protein active breed diet,24-28%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very energetic
+Bloodhound,Balanced large breed diet,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs exercise
+Bullmastiff,Large breed protein diet,22-26%,Hip Dysplasia;Heart Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Calm temperament
+Alaskan Malamute,High-energy protein diet,24-28%,Hip Dysplasia;Hypothyroidism,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Cold climate preferred
+Whippet,Balanced lean protein diet,22-26%,Heart Disease;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs sprint exercise
+Papillon,Toy breed premium food,20-24%,Dental Issues;Luxating Patella,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Small portion control
+Rhodesian Ridgeback,High-protein active dog diet,24-28%,Hip Dysplasia;Dermoid Sinus,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs firm training
+Collie,Balanced premium diet,22-26%,Collie Eye Anomaly;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular vet eye checks
+Irish Setter,High-energy protein diet,24-28%,Bloat;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Active lifestyle required
+Great Pyrenees,Large breed slow growth formula,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Protective nature
+Havanese,Small breed premium food,20-24%,Dental Issues;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Daily brushing
+Australian Cattle Dog,High-protein working dog diet,24-28%,Hip Dysplasia;Deafness,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs intense activity
+Cavalier King Charles Spaniel,Small breed heart-support diet,20-24%,Heart Disease;Ear Infections,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Heart checkups important
+West Highland White Terrier,Small breed balanced diet,20-24%,Skin Allergies;Dental Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Skin care needed
+breed,food_type,protein_requirement,common_diseases,vaccination_schedule,feeding_frequency,special_notes
+Bichon Frise,Small breed premium kibble,20-24%,Dental Disease;Skin Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming required
+Belgian Malinois,High-protein working dog diet,24-30%,Hip Dysplasia;Progressive Retinal Atrophy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Extremely active breed
+Shar Pei,Balanced premium kibble,22-26%,Skin Infections;Entropion,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular skin fold cleaning
+Airedale Terrier,High-quality balanced diet,22-26%,Hip Dysplasia;Skin Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs regular exercise
+Basenji,Lean protein diet,22-26%,Fanconi Syndrome;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Independent temperament
+Chinese Crested,Small breed sensitive stomach diet,20-24%,Dental Issues;Skin Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Skin protection needed
+Lhasa Apso,Small breed premium food,20-24%,Kidney Disease;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Frequent grooming
+Old English Sheepdog,Large breed balanced diet,22-26%,Hip Dysplasia;Hypothyroidism,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Heavy coat maintenance
+Samoyed,High-protein cold climate diet,24-28%,Hip Dysplasia;Diabetes,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs regular exercise
+Tibetan Mastiff,Large breed slow growth formula,22-26%,Hip Dysplasia;Hypothyroidism,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strong guardian instinct
+English Bulldog,Low-fat premium kibble,20-24%,Breathing Issues;Joint Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Avoid heat exposure
+American Pit Bull Terrier,High-protein balanced diet,24-28%,Hip Dysplasia;Skin Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs structured training
+American Staffordshire Terrier,Protein-rich kibble,24-28%,Hip Dysplasia;Heart Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Active breed
+Pointer,High-energy protein diet,24-28%,Hip Dysplasia;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Requires daily running
+Greyhound,Lean protein balanced diet,22-26%,Heart Disease;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Short bursts of exercise
+Italian Greyhound,Small breed lean diet,20-24%,Dental Issues;Leg Fractures,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Fragile bones
+Scottish Terrier,Balanced premium diet,22-26%,Bladder Cancer;Skin Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming
+Fox Terrier,High-energy balanced diet,22-26%,Deafness;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very energetic
+Keeshond,Balanced protein diet,22-26%,Hip Dysplasia;Heart Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Heavy coat brushing
+Irish Wolfhound,Large breed slow growth formula,22-26%,Heart Disease;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor heart health
+Bull Terrier,High-quality protein diet,22-26%,Skin Allergies;Deafness,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strong personality
+New Guinea Singing Dog,Balanced raw or kibble diet,22-26%,Hip Dysplasia;Dental Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Rare breed
+Komondor,Large breed balanced diet,22-26%,Hip Dysplasia;Skin Infections,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Coat maintenance critical
+Afghan Hound,High-protein premium diet,22-26%,Hip Dysplasia;Cataracts,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming required
+Saluki,Lean protein diet,22-26%,Heart Disease;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs space to run
+Norwegian Elkhound,Balanced cold climate diet,22-26%,Hip Dysplasia;Kidney Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Cold weather preference
+Chesapeake Bay Retriever,High-protein active dog diet,24-28%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Loves swimming
+English Mastiff,Large breed slow growth diet,22-26%,Bloat;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Massive breed care
+Leonberger,Large breed balanced diet,22-26%,Hip Dysplasia;Heart Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Heavy coat grooming
+Anatolian Shepherd,High-protein working dog diet,24-28%,Hip Dysplasia;Entropion,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Guardian breed
+Alaskan Klee Kai,Small active breed diet,22-26%,Patellar Luxation;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,High energy
+Coton de Tulear,Small breed premium kibble,20-24%,Dental Issues;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Frequent brushing
+Finnish Spitz,Balanced high-energy diet,22-26%,Hip Dysplasia;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Alert temperament
+Belgian Tervuren,High-protein working diet,24-28%,Hip Dysplasia;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very intelligent
+Belgian Sheepdog,High-protein balanced diet,24-28%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs activity
+Clumber Spaniel,Balanced moderate protein diet,22-26%,Hip Dysplasia;Ear Infections,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor weight
+Field Spaniel,Premium balanced kibble,22-26%,Hip Dysplasia;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Active companion
+Norfolk Terrier,Small breed balanced diet,20-24%,Dental Disease;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Spirited personality
+Border Terrier,High-energy balanced diet,22-26%,Hip Dysplasia;Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs exercise
+Brussels Griffon,Toy breed premium diet,20-24%,Respiratory Issues;Dental Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Small portions only
+Japanese Chin,Small breed sensitive diet,20-24%,Heart Disease;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Avoid obesity
+Skye Terrier,Premium balanced diet,22-26%,Hip Dysplasia;Skin Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Long coat care
+Wirehaired Pointing Griffon,High-protein active diet,24-28%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Hunting breed
+Tibetan Terrier,Balanced small-medium breed diet,22-26%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming
+American Eskimo Dog,Balanced premium kibble,22-26%,Hip Dysplasia;Dental Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Fluffy coat care
+Lakeland Terrier,High-energy balanced diet,22-26%,Hip Dysplasia;Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Active terrier
+Dogo Argentino,High-protein large breed diet,24-28%,Hip Dysplasia;Deafness,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strong training required
+Australian Terrier,Small breed balanced diet,20-24%,Diabetes;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Lively breed
+Norwich Terrier,Small breed balanced diet,20-24%,Dental Disease;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very alert
+Toy Poodle,Small breed premium kibble,20-24%,Dental Issues;Luxating Patella,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming
+Standard Poodle,High-quality balanced diet,22-28%,Hip Dysplasia;Addison’s Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Highly intelligent
+Miniature Poodle,Small breed premium diet,20-24%,Dental Disease;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs mental stimulation
+Redbone Coonhound,Balanced high-protein diet,22-26%,Hip Dysplasia;Ear Infections,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs tracking activity
+Bluetick Coonhound,High-energy protein diet,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Loud voice
+Treeing Walker Coonhound,Balanced protein diet,22-26%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very active
+Plott Hound,High-protein active diet,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strong hunting instinct
+Black and Tan Coonhound,Balanced large breed diet,22-26%,Hip Dysplasia;Ear Infections,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs exercise
+American Foxhound,Lean protein diet,22-26%,Hip Dysplasia;Thyroid Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs running space
+English Foxhound,Balanced protein diet,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Pack-oriented
+Harrier,Balanced moderate protein diet,22-26%,Hip Dysplasia;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Active breed
+Otterhound,Large breed balanced diet,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Loves water
+Bearded Collie,High-energy balanced diet,22-26%,Hip Dysplasia;Hypothyroidism,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular grooming
+Briard,High-quality balanced diet,22-26%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Protective breed
+Belgian Laekenois,High-protein working diet,24-28%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs training
+Cardigan Welsh Corgi,Balanced moderate diet,22-26%,Hip Dysplasia;Intervertebral Disc Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor weight
+Pembroke Welsh Corgi,Balanced premium kibble,22-26%,Hip Dysplasia;Degenerative Myelopathy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Highly intelligent
+Swedish Vallhund,High-energy balanced diet,22-26%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Alert breed
+Icelandic Sheepdog,Balanced protein diet,22-26%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Cold tolerant
+Kerry Blue Terrier,High-quality balanced diet,22-26%,Hip Dysplasia;Cataracts,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs grooming
+Soft Coated Wheaten Terrier,Balanced premium diet,22-26%,Protein-Losing Enteropathy;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Soft coat care
+Manchester Terrier,Small breed balanced diet,20-24%,Dental Issues;Heart Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very energetic
+Rat Terrier,Small breed high-energy diet,20-24%,Hip Dysplasia;Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs stimulation
+Toy Fox Terrier,Toy breed premium food,20-24%,Dental Issues;Luxating Patella,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Small portions
+Cesky Terrier,Balanced moderate protein diet,22-26%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Calm temperament
+Glen of Imaal Terrier,High-quality balanced diet,22-26%,Hip Dysplasia;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strong build
+Dandie Dinmont Terrier,Small breed balanced diet,20-24%,Glaucoma;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Long body care
+Sealyham Terrier,Balanced premium diet,22-26%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Sturdy breed
+Silky Terrier,Toy breed balanced diet,20-24%,Dental Issues;Luxating Patella,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Regular brushing
+Affenpinscher,Small breed balanced diet,20-24%,Dental Disease;Luxating Patella,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Strong personality
+Boerboel,Large breed high-protein diet,24-28%,Hip Dysplasia;Heart Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Powerful guardian
+Catahoula Leopard Dog,High-energy working diet,24-28%,Hip Dysplasia;Deafness,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs training
+Dutch Shepherd,High-protein working dog diet,24-28%,Hip Dysplasia;Elbow Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very intelligent
+English Toy Spaniel,Toy breed premium diet,20-24%,Heart Disease;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Gentle temperament
+Eurasier,Balanced premium diet,22-26%,Hip Dysplasia;Thyroid Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Family-oriented
+Flat-Coated Retriever,High-protein active diet,24-28%,Cancer;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very playful
+German Wirehaired Pointer,High-energy protein diet,24-28%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Hunting breed
+Giant Schnauzer,Large breed balanced diet,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs strong training
+Hokkaido,Balanced cold climate diet,22-26%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Loyal breed
+Ibizan Hound,Lean protein balanced diet,22-26%,Deafness;Hip Dysplasia,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs running space
+Irish Terrier,High-energy balanced diet,22-26%,Hip Dysplasia;Allergies,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Spirited personality
+Kai Ken,Balanced premium kibble,22-26%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Rare Japanese breed
+Kangal,Large breed high-protein diet,24-28%,Hip Dysplasia;Entropion,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Powerful livestock guardian
+Lagotto Romagnolo,Balanced moderate protein diet,22-26%,Hip Dysplasia;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Truffle hunter
+Lowchen,Toy breed premium kibble,20-24%,Luxating Patella;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs grooming
+Mudi,High-energy working diet,24-28%,Hip Dysplasia;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Highly active
+Neapolitan Mastiff,Large breed slow growth formula,22-26%,Hip Dysplasia;Heart Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Skin fold care
+Peruvian Inca Orchid,Sensitive skin balanced diet,20-24%,Skin Issues;Dental Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Skin protection needed
+Pharaoh Hound,Lean protein active diet,22-26%,Hip Dysplasia;Eye Problems,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs sprint exercise
+Portuguese Water Dog,High-protein active diet,24-28%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Loves swimming
+Puli,High-energy balanced diet,22-26%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Heavy coat care
+Pyrenean Shepherd,Balanced moderate protein diet,22-26%,Hip Dysplasia;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Very agile
+Schipperke,Small breed balanced diet,20-24%,Hip Dysplasia;Eye Disorders,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Alert watchdog
+Spinone Italiano,Balanced high-protein diet,22-26%,Hip Dysplasia;Bloat,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Gentle hunter
+Sussex Spaniel,Moderate protein balanced diet,22-26%,Hip Dysplasia;Ear Infections,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Monitor weight
+Thai Ridgeback,High-protein lean diet,24-28%,Hip Dysplasia;Dermoid Sinus,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Independent breed
+Vizsla,High-energy protein diet,24-28%,Hip Dysplasia;Epilepsy,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Needs human companionship
+Xoloitzcuintli,Sensitive skin balanced diet,20-24%,Skin Issues;Dental Disease,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Hairless care required
+Yakutian Laika,Cold climate high-protein diet,24-28%,Hip Dysplasia;Eye Issues,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day,Working sled dog
+Maltese Dog,Small breed premium kibble,20-24%,Dental Disease;Eye Problems;Patellar Luxation;Hypoglycemia;White Dog Shaker Syndrome,"6-8w DHPP;12w Booster;16w Rabies;Annual Booster",2 times/day (3 for puppies),Daily brushing required;Clean eyes regularly;Regular dental care essential
