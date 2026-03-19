@@ -1,0 +1,12 @@
+streamlit
+tensorflow==2.15.0
+tensorflow-hub>=0.15.0
+pandas
+numpy
+pillow
+ultralytics
+reportlab
+
+
+# Delete the corrupted cache folder
+rmdir /s /q "C:\Users\kakad\AppData\Local\Temp\tfhub_modules"
